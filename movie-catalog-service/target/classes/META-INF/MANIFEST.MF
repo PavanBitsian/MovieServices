@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: movie-catalog-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pmullang
+Implementation-Vendor-Id: com.nanosoft
+Build-Jdk: 1.8.0_231
+Implementation-URL: http://projects.spring.io/spring-boot/movie-catalo
+ g-service/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
